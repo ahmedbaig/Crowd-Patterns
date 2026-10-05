@@ -1,0 +1,13 @@
+[project]
+name = "crowd-patterns"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "geopandas>=1.2.0",
+    "h3>=4.5.0",
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.6",
+    "psycopg[binary]>=3.3.6",
+    "scikit-learn>=1.9.1",
+]
